@@ -21,7 +21,7 @@
 }
 @media(min-width:1024px){
     .intro__list {
-        width: calc(100% - 48px -286px);
+        width: calc(100% - 48px - 286px);
         margin: 33px auto 0 48px;
     }
 }
