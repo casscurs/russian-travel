@@ -1,0 +1,8 @@
+.cover {
+    min-height: 200px;
+}
+@media(min-width:768px){
+    .cover {
+        width: 100%;
+    }
+}

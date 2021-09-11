@@ -1,0 +1,29 @@
+.place__image {
+    margin-top: 32px;
+    width: 100%;
+    padding-bottom: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 32px;
+}
+@media(min-width:768px){
+    .place__image {
+        margin-top: 48px;
+        min-height: 340px;
+        padding: 0;
+        margin-bottom: 0;
+        align-self: start;
+    }
+}
+@media(min-width:1024px){
+    .place__image {
+        width: 100%;
+        min-height: 440px;
+    }
+}
+@media(min-width:1280px){
+    .place__image {
+        min-height: 460px;
+    }
+}

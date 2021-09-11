@@ -1,0 +1,28 @@
+.place__title {
+    margin: 0 auto;
+    width: calc(100% - 2*16px);
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+@media(min-width:768px){
+    .place__title {
+        width: 100%;
+        font-size: 42px;
+        line-height: 46px;
+        min-height: 46px;
+        align-self: end;
+    }
+}
+@media(min-width:1024px){
+    .place__title {
+        margin: 0 auto;
+        font-size: 72px;
+        line-height: 76px;
+        min-height: 76px;
+    }
+}

@@ -1,0 +1,9 @@
+/* Микс для внешних отступов */
+.page__footer{
+    margin-left: 16px;
+}
+@media(min-width:768px){
+    .page__footer{
+        margin: 0 auto;
+    }
+}

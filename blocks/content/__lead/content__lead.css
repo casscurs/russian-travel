@@ -1,0 +1,9 @@
+/* Микс для внешних отступов */
+.content__lead{
+    margin-top: 48px; 
+}
+@media(min-width:1280px){
+    .content__lead{
+        margin-top: 56px;
+    }
+}

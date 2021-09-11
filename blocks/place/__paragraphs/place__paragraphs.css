@@ -1,0 +1,10 @@
+.place__paragraphs {
+    display: flex;
+    flex-direction: column;
+}
+@media(min-width:768px){
+    .place__paragraphs {
+        margin-top: 48px;
+        grid-column: 2/3;
+    }
+}
