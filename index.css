@@ -56,40 +56,25 @@
 /* Шрифт */
 @font-face {
     src:
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Medium.woff2) format('woff2'),
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Medium.woff) format('woff');
+        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Regular.woff2) format('woff2'),
+        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Regular.woff) format('woff');
     font-family: 'Inter';
-    font-weight:normal;
+    font-weight:400;
+    font-style:normal;
 }
-
 @font-face {
     src:
         url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Bold.woff2) format('woff2'),
         url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Bold.woff) format('woff');
     font-family: 'Inter';
-    font-weight: bold;
+    font-weight:700;
+    font-style:normal;
 }
-
 @font-face {
     src:
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-ExtraBold.woff2) format('woff2'),
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-ExtraBold.woff) format('woff');
+        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Black.woff2) format('woff2'),
+        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-Black.woff) format('woff');
     font-family: 'Inter';
-    font-weight: bolder;
-}
-
-@font-face {
-    src:
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-ExtraLight.woff2) format('woff2'),
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-ExtraLight.woff) format('woff');
-    font-family: 'Inter';
-    font-weight: lighter;
-}
-
-@font-face {
-    src:
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-SemiBold.woff2) format('woff2'),
-        url(../russian-travel/fonts/Inter-3/Inter\ Web/Inter-SemiBold.woff2) format('woff');
-    font-family: 'Inter';
-    font-weight: 500;
+    font-weight:900;
+    font-style:normal;
 }
