@@ -20,4 +20,7 @@
         margin-bottom: 0;
         margin-right: 18px;
     }
+    .footer__link:hover{
+        opacity: 0.3;
+    }
 }

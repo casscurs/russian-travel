@@ -13,4 +13,7 @@
     .place__link {
         cursor: pointer;
     }
+    .place__link:hover {
+        opacity:0.3;
+    }
 }
