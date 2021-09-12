@@ -11,11 +11,13 @@
 @media(min-width:768px){
     .intro__text {
         width: calc(100% - 2*24px);
+        margin: 40px auto 0 auto;
     }
 }
 @media(min-width:1024px){
     .intro__text {
         width: calc(100% - 48px - 286px);
+        margin: 40px auto 0 48px;
     }
 }
 @media(min-width:1280px){

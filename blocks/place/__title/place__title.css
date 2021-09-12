@@ -11,14 +11,15 @@
 }
 @media(min-width:768px){
     .place__title {
-        width: 100%;
-        font-size: 44px;
+        width: 97%;
+        font-size: 42px;
         line-height: 46px;
         align-self: end;
     }
 }
 @media(min-width:1024px){
     .place__title {
+        width: 100%;
         margin: 0 auto;
         font-size: 72px;
         line-height: 76px;

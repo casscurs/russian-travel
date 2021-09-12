@@ -20,3 +20,8 @@
         margin-left: 259px;
     }
 }
+@media(min-width:1280px){
+    .footer__copyright {
+        margin-left: 515px;
+    }
+}
