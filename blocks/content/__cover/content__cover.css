@@ -5,6 +5,7 @@
 @media(min-width:768px){
     .content__cover{
         margin-bottom: 88px;
+        margin-top: 90px;
     }
 }
 @media(min-width:1024px){

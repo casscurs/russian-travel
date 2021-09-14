@@ -1,4 +1,6 @@
 .lead__image {
+    margin: 0;
+    padding: 0;
     width: 100%;
     min-height: 200px;
     margin-top: 40px;
@@ -23,7 +25,7 @@
 }
 @media(min-width:1280px){
     .lead__image {
-        width: calc(100% - 2*148px);
+        width: calc(1280px - 2*148px);
         min-height: 615px;
         margin-top: 64px;
     }

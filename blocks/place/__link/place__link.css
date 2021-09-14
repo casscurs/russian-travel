@@ -8,12 +8,13 @@
     line-height: 22px;
     letter-spacing: 0em;
     text-align: left;
+    margin-top:12px;
+}
+.place__link:hover {
+    opacity:0.3;
 }
 @media(min-width:1024px){
     .place__link {
         cursor: pointer;
-    }
-    .place__link:hover {
-        opacity:0.3;
     }
 }

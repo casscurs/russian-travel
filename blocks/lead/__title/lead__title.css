@@ -6,7 +6,6 @@
     font-weight: 900;
     line-height: 44px;
     width: calc(100% - 2*16px);
-    min-height: 88px;
 }
 @media(min-width:768px){
     .lead__title {
@@ -22,6 +21,6 @@
 }
 @media(min-width:1280px){
     .lead__title {
-        width: calc(100% - 2*280px);
+        max-width: calc(1280px - 2*280px);
     }
 }

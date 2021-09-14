@@ -8,9 +8,6 @@
     min-width: 22px;
     color: #FFFFFF;
 }
-.header__lang-link:hover {
-    text-decoration: underline;
-}
 .header__lang-link:last-of-type {
     margin: 0;
 }

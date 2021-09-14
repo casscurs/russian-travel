@@ -29,8 +29,10 @@
 }
 @media(min-width:1280px){
     .cover__title {
-        width: calc(100% - 2*312px);
+        max-width: calc(1280px - 2*312px);
         margin-top: 245px;
+        margin-right: auto;
+        margin-left: auto;
     }
 
 }

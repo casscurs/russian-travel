@@ -9,7 +9,8 @@
     letter-spacing: 0em;
     text-align: left;
 }
-.place__paragraph:last-of-type {
+
+.place__paragraph:nth-child(2) {
     margin-top: 25px;
 }
 @media(min-width:768px){
@@ -28,12 +29,7 @@
         font-style: normal;
         line-height: 29px;
     }
-    .place__paragraph:last-of-type {
+    .place__paragraph:nth-child(2) {
         margin-top: 27px;
-    }
-}
-@media(min-width:1280px){
-    .place__paragraph:last-of-type {
-        margin-top: 26px;
     }
 }

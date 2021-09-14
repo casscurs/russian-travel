@@ -1,7 +1,6 @@
 .place__website {
     margin: 32px auto 0 auto;
     width: calc(100% - 2*16px);
-    height: 46px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

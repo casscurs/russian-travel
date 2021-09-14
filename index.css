@@ -25,6 +25,7 @@
 @import url(./blocks/cover/__title/cover__title.css);
 @import url(./blocks/footer/__copyright/footer__copyright.css);
 @import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__links/footer__links.css);
 @import url(./blocks/header/__lang-link/header__lang-link.css);
 @import url(./blocks/header/__lang-links/header__lang-links.css);
 @import url(./blocks/header/__logo/header__logo.css);
@@ -55,3 +56,4 @@
 @import url(./blocks/place/__image/_location/place__image_location_kolsky.css);
 @import url(./blocks/place/__image/_location/place__image_location_kosa.css);
 @import url(./blocks/place/__image/_location/place__image_location_winter-baikal.css);
+@import url(./blocks/header/__lang-link/_active/header__lang-link_active.css);

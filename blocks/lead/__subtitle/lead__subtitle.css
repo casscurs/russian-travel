@@ -1,7 +1,6 @@
 .lead__subtitle {
     margin: 16px auto 0 auto;
     width: calc(100% - 2*16px);
-    min-height: 40px;
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-size: 16px;
     font-style: normal;
@@ -24,6 +23,6 @@
 }
 @media(min-width:1280px){
     .lead__subtitle {
-        width: calc(100% - 2*320px);
+        max-width: calc(1280px - 2*320px);
     }
 }

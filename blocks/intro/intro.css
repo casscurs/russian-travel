@@ -1,0 +1,9 @@
+@media(min-width:1280px){
+    .intro {
+        width: 984px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+}

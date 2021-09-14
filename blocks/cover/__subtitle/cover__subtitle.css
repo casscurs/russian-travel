@@ -26,13 +26,14 @@
     .cover__subtitle {
         width: calc(100% - 2*332px);
         margin-bottom: 195px;
-        font-size: 18px;
         line-height: 22px;
     }
 }
 @media(min-width:1280px){
     .cover__subtitle {
-        width: calc(100% - 2*460px);
+        max-width: calc(1280px - 2*460px);
         margin-bottom: 245px;
+        margin-right: auto;
+        margin-left: auto;
     }
 }
