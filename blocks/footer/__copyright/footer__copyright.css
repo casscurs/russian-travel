@@ -12,16 +12,5 @@
     .footer__copyright {
         margin-top: 0;
         line-height: 18px;
-        margin-left:51px;
-    }
-}
-@media(min-width:1024px){
-    .footer__copyright {
-        margin-left:259px;
-    }
-}
-@media(min-width:1280px){
-    .footer__copyright {
-        margin-left:515px;
     }
 }
