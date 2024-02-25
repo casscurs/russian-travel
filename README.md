@@ -9,4 +9,4 @@
 
 - Создать форму, через которую пользователи смогут отправлять свои комментарии и отзывы
 
-https://libertacoro.github.io/russian-travel/
+[страница](https://casscurs.github.io/russian-travel/)
